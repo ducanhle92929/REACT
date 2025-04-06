@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "f1b2",
+      "name": "thai",
+      "age": "19",
+      "email": "thai@gmail.com",
+      "password": "123",
+      "gender": "nam"
+    },
+    {
+      "id": "09c3",
+      "name": "thai",
+      "age": "19",
+      "email": "thai@gmail.com",
+      "password": "123",
+      "gender": "nam"
+    },
+    {
+      "id": "cd84",
+      "name": "thai",
+      "age": "18",
+      "email": "thai@gmail.com",
+      "password": "123",
+      "gender": "male"
+    }
+  ]
+}
