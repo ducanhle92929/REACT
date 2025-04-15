@@ -18,8 +18,8 @@ import { setLoginInfo, setAuthenticated } from '../store/authSlice';
 import { store } from '../store';
 import AsyncStorage from '@react-native-async-storage/async-storage'; // Thêm AsyncStorage
 
-// const API_URL = 'https://67e5137018194932a584633a.mockapi.io/users';
 const API_URL = 'https://67b001a7dffcd88a6788195e.mockapi.io/users';
+
 type RootParamList = {
     Login: undefined;
     SignUp: undefined;
