@@ -1,0 +1,22 @@
+{
+    "name": "habit-tracker-server",
+    "version": "1.0.0",
+    "description": "Server cho ứng dụng theo dõi thói quen",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
+
