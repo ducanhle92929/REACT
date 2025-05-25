@@ -1,128 +1,79 @@
 [
   {
-    "id": "progress_1748072012069_774",
-    "habitId": "habit_1748072011845_5473",
-    "date": "2025-05-24",
-    "value": 0,
-    "updatedAt": "2025-05-24T07:33:32.069Z"
-  },
-  {
-    "id": "progress_1748072091450_989",
-    "habitId": "habit_1748072013086_7726",
-    "date": "2025-05-24",
-    "value": 30,
-    "updatedAt": "2025-05-24T07:34:51.450Z"
-  },
-  {
-    "id": "progress_1748072124048_4",
-    "habitId": "habit_1748072123856_6939",
-    "date": "2025-05-24",
-    "value": 8,
-    "updatedAt": "2025-05-24T07:35:32.272Z"
-  },
-  {
-    "id": "progress_1748072430253_144",
-    "habitId": "habit_1748072430173_8838",
-    "date": "2025-05-24",
-    "value": 8,
-    "updatedAt": "2025-05-24T07:40:36.341Z"
-  },
-  {
-    "id": "progress_1748072759501_703",
-    "habitId": "habit_1748072386851_8970",
-    "date": "2025-05-24",
-    "value": 3,
-    "updatedAt": "2025-05-24T07:46:02.936Z"
-  },
-  {
-    "id": "progress_1748073121698_882",
-    "habitId": "habit_1748073121619_5449",
-    "date": "2025-05-24",
-    "value": 3,
-    "updatedAt": "2025-05-24T08:01:44.529Z"
-  },
-  {
-    "id": "progress_1748073461831_968",
-    "habitId": "habit_1748073461560_1559",
-    "date": "2025-05-24",
-    "value": 2,
-    "updatedAt": "2025-05-24T08:01:53.312Z"
-  },
-  {
-    "id": "progress_1748073813640_197",
+    "id": "progress_1",
     "habitId": "default_water_habit",
-    "date": "2025-05-24",
-    "value": 8,
-    "updatedAt": "2025-05-24T08:25:11.256Z"
+    "date": "2025-01-25",
+    "value": 5,
+    "updatedAt": "2025-01-25T10:00:00.000Z"
   },
   {
-    "id": "progress_1748073855219_446",
-    "habitId": "habit_1748073855133_6354",
-    "date": "2025-05-24",
-    "value": 8,
-    "updatedAt": "2025-05-24T08:04:21.271Z"
-  },
-  {
-    "id": "progress_1748073988548_747",
-    "habitId": "default_meditation_habit",
-    "date": "2025-05-24",
-    "value": 15,
-    "updatedAt": "2025-05-24T08:06:28.548Z"
-  },
-  {
-    "id": "progress_1748074091206_993",
+    "id": "progress_2",
     "habitId": "default_exercise_habit",
-    "date": "2025-05-24",
+    "date": "2025-01-25",
     "value": 30,
-    "updatedAt": "2025-05-24T08:08:15.433Z"
+    "updatedAt": "2025-01-25T07:00:00.000Z"
   },
   {
-    "id": "progress_1748074105487_620",
-    "habitId": "default_reading_habit",
-    "date": "2025-05-24",
-    "value": 13,
-    "updatedAt": "2025-05-24T08:08:28.841Z"
-  },
-  {
-    "id": "progress_1748074505712_816",
-    "habitId": "habit_1748074505515_9293",
-    "date": "2025-05-24",
-    "value": 1,
-    "updatedAt": "2025-05-24T08:15:14.535Z"
-  },
-  {
-    "id": "progress_1748074534134_797",
-    "habitId": "default_water_habit",
-    "date": "2025-05-23",
-    "value": 15,
-    "updatedAt": "2025-05-24T08:19:10.887Z"
-  },
-  {
-    "id": "progress_1748074576808_430",
-    "habitId": "default_meditation_habit",
-    "date": "2025-05-23",
-    "value": 8,
-    "updatedAt": "2025-05-24T08:16:19.661Z"
-  },
-  {
-    "id": "progress_1748074919223_860",
-    "habitId": "habit_1748074919165_2682",
-    "date": "2025-05-24",
-    "value": 0,
-    "updatedAt": "2025-05-24T08:21:59.223Z"
-  },
-  {
-    "id": "progress_1748075117439_773",
+    "id": "progress_1748160113141_513",
     "habitId": "default_water_habit",
     "date": "2025-05-25",
-    "value": 1,
-    "updatedAt": "2025-05-24T08:25:17.439Z"
+    "value": 8,
+    "updatedAt": "2025-05-25T08:02:05.323Z"
   },
   {
-    "id": "progress_1748076022364_287",
-    "habitId": "habit_1748076022334_9513",
+    "id": "progress_1748160135673_124",
+    "habitId": "default_exercise_habit",
+    "date": "2025-05-25",
+    "value": 30,
+    "updatedAt": "2025-05-25T08:02:15.673Z"
+  },
+  {
+    "id": "progress_1748160141293_165",
+    "habitId": "default_meditation_habit",
+    "date": "2025-05-25",
+    "value": 15,
+    "updatedAt": "2025-05-25T08:02:21.293Z"
+  },
+  {
+    "id": "progress_1748160443000_209",
+    "habitId": "default_water_habit",
+    "date": "2025-05-26",
+    "value": 1,
+    "updatedAt": "2025-05-25T08:07:23.000Z"
+  },
+  {
+    "id": "progress_1748160611245_184",
+    "habitId": "default_reading_habit",
+    "date": "2025-05-25",
+    "value": 31,
+    "updatedAt": "2025-05-25T08:51:25.111Z"
+  },
+  {
+    "id": "progress_1748160888605_738",
+    "habitId": "default_water_habit",
     "date": "2025-05-24",
-    "value": 0,
-    "updatedAt": "2025-05-24T08:40:22.364Z"
+    "value": 4,
+    "updatedAt": "2025-05-25T08:14:49.212Z"
+  },
+  {
+    "id": "progress_1748160896647_566",
+    "habitId": "default_meditation_habit",
+    "date": "2025-05-24",
+    "value": 5,
+    "updatedAt": "2025-05-25T08:14:57.411Z"
+  },
+  {
+    "id": "progress_1748160906959_334",
+    "habitId": "habit_1748160906867_7935",
+    "date": "2025-05-25",
+    "value": 4,
+    "updatedAt": "2025-05-25T08:51:20.403Z"
+  },
+  {
+    "id": "progress_1748163091814_660",
+    "habitId": "habit_1748163091767_2362",
+    "date": "2025-05-25",
+    "value": 8,
+    "updatedAt": "2025-05-25T08:51:40.130Z"
   }
 ]

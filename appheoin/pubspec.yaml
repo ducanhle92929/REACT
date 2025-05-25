@@ -14,7 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   percent_indicator: ^4.2.3
   http: ^0.13.5
-  intl: ^0.19.0   # Sửa thành 0.19.0 để tương thích với flutter_localizations
+  intl: ^0.20.2  # Sửa thành 0.19.0 để tương thích với flutter_localizations
 
 dev_dependencies:
   flutter_test:

@@ -708,26 +708,6 @@ class _HabitTrackerScreenState extends State<HabitTrackerScreen> {
                 ),
               ],
             ),
-            // Thêm nút debug tạm thời
-            // if (kDebugMode)
-            //   Positioned(
-            //     top: 100,
-            //     right: 16,
-            //     child: FloatingActionButton.small(
-            //       onPressed: () async {
-            //         print('🔍 DEBUG: Kiểm tra dữ liệu hiện tại');
-            //         print('   - Ngày được chọn: ${_formatDate(selectedDate)}');
-            //         print('   - Thói quen mặc định: ${defaultHabits.length}');
-            //         print('   - Thói quen người dùng: ${userHabits.length}');
-            //         print('   - Thói quen lọc: ${filteredUserHabits.length}');
-
-            //         // Tải lại dữ liệu
-            //         await _loadData();
-            //       },
-            //       // child: const Icon(Icons.bug_report),
-            //       // backgroundColor: Colors.red,
-            //     ),
-            //   ),
           ],
         ),
       ),
